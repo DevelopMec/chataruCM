@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1008688292489",
+    "project_id": "chataru-90c4b",
+    "storage_bucket": "chataru-90c4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008688292489:android:43d7edb1db622f61d99c58",
+        "android_client_info": {
+          "package_name": "co.JoseFernandezChataru.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008688292489-b2vn3nfjdtpuluuqqi8132mp5n7afcbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY816v7K5BHdIGYRqF4U344Tao_Hoi-lU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008688292489-b2vn3nfjdtpuluuqqi8132mp5n7afcbu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
